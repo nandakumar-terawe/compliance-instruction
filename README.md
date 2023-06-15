@@ -1,4 +1,4 @@
-# Compliance Instruction ([NIST SP 80-172 Rev. 2](https://learn.microsoft.com/en-us/azure/governance/policy/samples/nist-sp-800-171-r2))
+# Compliance Instruction ([NIST SP 800-171 Rev. 2](https://learn.microsoft.com/en-us/azure/governance/policy/samples/nist-sp-800-171-r2))
 
 ## Steps
 - Encryption host needs to enable [(https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-host-based-encryption-portal?tabs=azure-cli#prerequisites)](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-host-based-encryption-portal?tabs=azure-cli#prerequisites)
